@@ -6,7 +6,7 @@
 #
 # Compute object attributes and generate the objects database
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-10
 
 from __future__ import division

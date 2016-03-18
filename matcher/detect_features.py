@@ -6,7 +6,7 @@
 #
 # Identify points of interest using Harris Corner Detection
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-12
 
 import numpy as np

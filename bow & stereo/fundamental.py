@@ -6,7 +6,7 @@
 #
 # Fundamental Matrix and Epipolar Lines 
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-11-20
 
 import cv2

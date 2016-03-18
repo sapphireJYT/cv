@@ -7,7 +7,7 @@
 # NCC matching
 # Match features based on maximized normalized cross-correlation criterion
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-12
 
 import numpy as np

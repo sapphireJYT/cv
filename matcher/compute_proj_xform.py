@@ -6,7 +6,7 @@
 #
 # Fully-Projective Alignment Model (8 degrees of freedom)
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-16
 
 import random

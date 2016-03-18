@@ -6,7 +6,7 @@
 #
 # Convert a gray-level image to a binary one using a threshold value
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-03
 
 import cv2

@@ -6,7 +6,7 @@
 #
 # Hough Transform for Line Detection
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-16
 
 from __future__ import division

@@ -7,7 +7,7 @@
 # Implement the sequential labeling algorithm that segments  
 # a binary image into several connected regions
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-06
 
 import numpy as np

@@ -6,7 +6,7 @@
 #
 # Recognize objects from the database
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-11
 
 from __future__ import division

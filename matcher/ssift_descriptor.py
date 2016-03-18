@@ -6,7 +6,7 @@
 #
 # Construct Simple-SIFT feature for each point of interest 
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-15
 
 from __future__ import division

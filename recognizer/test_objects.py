@@ -6,7 +6,7 @@
 #
 # Driver program
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-09-14
 
 from p1 import * 

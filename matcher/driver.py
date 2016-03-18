@@ -6,7 +6,7 @@
 #
 # Driver program 
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-12
 
 import cv2

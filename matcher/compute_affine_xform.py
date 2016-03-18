@@ -8,7 +8,7 @@
 #   Compute affine transformation that best aligns the points
 #   Use RANSAC algorithm to remove outliers
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-10-13
 
 import random

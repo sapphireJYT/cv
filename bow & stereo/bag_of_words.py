@@ -6,7 +6,7 @@
 #
 # Scene Recognition with Bag of Words
 #
-# Author: Yating Jing <yating@jhu.edu>
+# Author: yatbear <sapphirejyt@gmail.com>
 #         2015-11-14
 
 import cv2
