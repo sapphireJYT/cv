@@ -18,7 +18,7 @@
     - Alignment and Stitching
         - Affine Transformation (RAndom SAmple Consensus) 
 
-- [Bag of Words, Stereo Matching](https://github.com/sapphireJYT/cv/tree/master/bow & stereo)
+- [Bag of Words, Stereo Matching](https://github.com/sapphireJYT/cv/tree/master/bow%20%26%20stereo)
     - Scene Recognition with Bag of Words
     - Stereo Matching and Reconstruction
     - Fundamental Matrix and Epipolar Lines
